@@ -51,7 +51,6 @@ function db_connect() {
     $database = 'crud_app';
 
     // Connecting to the database crud_app
-    
     $db = new mysqli($host, $user, $password, $database);
     
     // display error number if an error occours
