@@ -17,6 +17,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MDIA 3294 - Crud Table Application</title>
+  <meta name="robots" content="noindex">
 
   <!-- tailwindcss -->
   <script src="https://cdn.tailwindcss.com"></script>

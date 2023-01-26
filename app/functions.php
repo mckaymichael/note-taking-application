@@ -46,12 +46,11 @@ function dd($data) {
 // ----------
 function db_connect() {
     $host = 'localhost';
-    $user = 'crud_user';
+    $user = 'michqgfr_crud_user';
     $password = '!k+Y2j';
-    $database = 'crud_app';
+    $database = 'michqgfr_crud_app';
 
     // Connecting to the database crud_app
-    
     $db = new mysqli($host, $user, $password, $database);
     
     // display error number if an error occours
