@@ -1,6 +1,6 @@
 <?php 
     
-    define('WWW_ROOT', 'https://crud.michaelkmckay.com');
+    define('WWW_ROOT', 'http://localhost');
     define('PROJECT_ROOT', dirname(__DIR__, 1));
 
     ini_set('display_errors', 1);
